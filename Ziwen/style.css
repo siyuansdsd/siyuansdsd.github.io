@@ -1,4 +1,10 @@
-.main-title {
+.main {
+    padding: 0%;
+}
+
+.main_title {
+    padding: 0%;
+    margin: 0%;
     background-color: aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: xx-small;
