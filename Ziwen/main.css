@@ -1,7 +1,7 @@
 header .wrap-header {}
 
 header .main-header {
-    background: url(../images/slider2.jpg) fixed center center;
+    background: url(./images/slide2.jpeg) fixed center center;
     background-color: #222;
     color: #fff;
     min-height: 600px;
@@ -27,6 +27,11 @@ header .logo img {
     margin: auto;
     padding: 10px;
     max-width: 210px;
+}
+
+#myCounter {
+    color: #fff;
+    font-size: 34px;
 }
 
 @media all and (max-width: 767px) {
