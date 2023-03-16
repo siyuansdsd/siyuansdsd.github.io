@@ -392,7 +392,8 @@ header .logo img {
 
 #myCounter {
     color: #fff;
-    font-size: 34px;
+    font-size: 42px;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 @media all and (max-width: 767px) {
